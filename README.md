@@ -1,4 +1,4 @@
-# DavidFlow
+## DavidFlow
 
 Script desarrollado en Python para comprobar algoritmos de regresión logística multinomial utilizando TensorFlow. Este algoritmo
 usa el MNIST dataset para entrenar patrones y definir imágenes
