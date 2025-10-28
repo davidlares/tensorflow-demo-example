@@ -1,25 +1,24 @@
-## DavidFlow
+## Tensorflow demo
 
-Script desarrollado en Python para comprobar algoritmos de regresión logística multinomial utilizando TensorFlow. Este algoritmo
-usa el MNIST dataset para entrenar patrones y definir imágenes
+Script developed in Python to test multinomial logistic regression algorithms using TensorFlow. This algorithm
+uses the MNIST dataset to train patterns and define images.
 
-## Requisitos
+## Requirements
 
-- Pypi - Package Package Index instalado
-- virtualEnv para el soporte de multiples versiones de las dependencias (ver requirements.txt)
-- Correr el archivo requeriments.txt, este lista todas las dependencias del TensorFlow
+- Pypi - Package Index installed
+- virtualEnv to support multiple versions of dependencies (see requirements.txt)
+- Run the requirements.txt file, which lists all TensorFlow dependencies.
 
-## Instalación
+## Installation
 
-Antes de correr el script en el CLI se debería tener el Venv corriendo (opcional)
+Before running the script in the CLI, you should have Venv running (optional).
 
 ```
 python script.py
 ```
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
-
